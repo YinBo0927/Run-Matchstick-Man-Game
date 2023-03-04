@@ -1,0 +1,15 @@
+release/qrc_res.o
+release/gamebutton.o
+release/gamewidget.o
+release/main.o
+release/dialog.o
+release/mainwindow.o
+release/obstacle.o
+release/regdialog.o
+release/role.o
+release/moc_dialog.o
+release/moc_gamebutton.o
+release/moc_gamewidget.o
+release/moc_mainwindow.o
+release/moc_regdialog.o
+release/moc_role.o

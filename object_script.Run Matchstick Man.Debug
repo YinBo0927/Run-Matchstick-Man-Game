@@ -1,0 +1,15 @@
+debug/qrc_res.o
+debug/gamebutton.o
+debug/gamewidget.o
+debug/main.o
+debug/dialog.o
+debug/mainwindow.o
+debug/obstacle.o
+debug/regdialog.o
+debug/role.o
+debug/moc_dialog.o
+debug/moc_gamebutton.o
+debug/moc_gamewidget.o
+debug/moc_mainwindow.o
+debug/moc_regdialog.o
+debug/moc_role.o
